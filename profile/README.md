@@ -1,7 +1,7 @@
 # 🥊 Boxeadores de TVs
 
 <p align="center">
-  <img src="alem-do-horizonte-ifg/.github/blob/main/banner.png" width="500">
+  <img src="/.github/blob/main/banner.png" width="500">
 </p>
 
 Transformando TV Boxes descartadas em computadores Linux.
