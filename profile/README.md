@@ -1,7 +1,7 @@
 # 🥊 Boxeadores de TVs
 
 <p align="center">
-  <img src="/banner.png" width="500">
+  <img src="/banner.png" width="1000">
 </p>
 
 Transformando TV Boxes descartadas em computadores Linux.
