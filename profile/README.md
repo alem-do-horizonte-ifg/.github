@@ -8,7 +8,7 @@ Transformando TV Boxes descartadas em computadores Linux.
 
 
 
-[🌐 Site Oficial](https://alem-do-horizonte-ifg.github.io)
+[🌐 Site Oficial](https://alem-do-horizonte-ifg.github.io/.github/)
 
 
 
