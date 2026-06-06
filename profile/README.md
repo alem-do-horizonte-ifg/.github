@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%">
+<img src="banner.jpeg" width="100%">
 
 # 🥊 Boxeadores de TV's
 ### Transformando TV Boxes apreendidas em computadores Linux
